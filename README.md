@@ -11,6 +11,13 @@
 
 English | [简体中文](./README-zh_CN.md)
 
+## Get Your Own Demo on AliababCloud
+
+<a href="https://pre-acs.console.aliyun.com/quick-deploy?repo=taosher/kruise&branch=master" target="_blank">
+  <img src="https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg" alt="Deploy on AlibabaCloud ACS">
+</a>
+
+
 ## Introduction
 
 OpenKruise  (official site: [https://openkruise.io](https://openkruise.io)) is a CNCF([Cloud Native Computing Foundation](https://cncf.io/)) incubating project.
